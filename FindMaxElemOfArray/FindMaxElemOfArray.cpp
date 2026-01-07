@@ -40,6 +40,7 @@ int main(int argc, char* argv[])
     std::cout << "\r\nFound maximum element: " << iMax << " with index " << nIndex << "\r\n";
     std::cin.ignore();
     std::cin.get();
+    return 0;
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"

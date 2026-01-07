@@ -7,7 +7,7 @@
 #include <math.h>
 
 
-int main()
+int main(int argc, char* argv[])
 {
     int nElems;
     std::cout << "Input a count of elements in array\r\n";
